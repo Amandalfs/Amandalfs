@@ -2,6 +2,7 @@
 - 👀 Tenho interesse em javascript, Java, mySQL, HTML, CSS, PostgreSQL, SOLID, FACTORY,...
 - 🌱 Atualmente estou aprendendo javascript, java, designs patterns, SQL, HTML e CSS...
 - 📚 Estudante de desenvolvimento de software na Cubos Academy
+- Atualmente estou trabalhando em tres projetos pessoais = { BancoHzhong, SweetWorld, NewLabsWryzen} 
 
 <!---
 Amandalfs/Amandalfs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
