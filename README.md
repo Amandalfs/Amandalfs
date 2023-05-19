@@ -32,6 +32,8 @@ Redes Sociais:
 
 ![Amandalfs GitHub stats](https://github-readme-stats.vercel.app/api?username=amandalfs&show_icons=true&theme=synthwave&custom_title=Amandalfs%20Status%20do%20github)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandalfs&langs_count=8&custom_title=Tops%20Linguagens&theme=synthwave)]()
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -40,8 +42,6 @@ Redes Sociais:
 ![MongoDB](https://img.shields.io/badge/MongoDB-D8BFD8?style=for-the-badge&logo=mongodb&logoColor)
 ![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor)
 ![git](https://img.shields.io/badge/git-purple?style=for-the-badge&logo=git&logoColor=white)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandalfs&langs_count=8&custom_title=Tops%20Linguagens&theme=synthwave)]()
 
 
 <!---
