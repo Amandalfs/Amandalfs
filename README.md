@@ -30,7 +30,7 @@ Redes Sociais:
 [![Linkendin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-rodrigues%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%E2%9A%A7%EF%B8%8F-a92271166/)
 
 
-![Amandalfs GitHub stats](https://github-readme-stats.vercel.app/api?username=amandalfs&show_icons=true&theme=synthwave)
+![Amandalfs GitHub stats](https://github-readme-stats.vercel.app/api?username=amandalfs&show_icons=true&theme=synthwave&custom_title=Amandalfs%20Status%20do%20github)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -40,6 +40,8 @@ Redes Sociais:
 ![MongoDB](https://img.shields.io/badge/MongoDB-D8BFD8?style=for-the-badge&logo=mongodb&logoColor)
 ![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor)
 ![git](https://img.shields.io/badge/git-purple?style=for-the-badge&logo=git&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandalfs&langs_count=8&custom_title=Tops%20Linguagens&theme=synthwave)]()
 
 
 <!---
