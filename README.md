@@ -34,6 +34,8 @@ SOLID, Scrum e MVC
 ![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor)
 ![git](https://img.shields.io/badge/git-purple?style=for-the-badge&logo=git&logoColor=white)
 
+![Amandalfs GitHub stats](https://github-readme-stats.vercel.app/api?username=amandalfs&show_icons=true&theme=synthwave)
+
 
 <!---
 Amandalfs/Amandalfs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
