@@ -3,8 +3,8 @@
 - 📚 Estudante de desenvolvimento de software na Cubos Academy
 - Atualmente estou trabalhando em tres projetos pessoais = { BancoHzhong, SweetWorld, NewLabsWryzen} 
 
-- Tecnologias:
-HTML, CSS, React, TailWindCss, 
+Tecnologias:
+- HTML, CSS, React, TailWindCss, 
 Node, Express, Fastify, Nest,
 PostgreSQL, SQlite, MongoDb, MySql
 Typescript, Java, JavaScript,
@@ -14,7 +14,7 @@ VSCode,
 Docker
 
 Testes: 
-Testes unitários, E2E, Testes ponta a ponta
+- Testes unitários, E2E, Testes ponta a ponta
 
 Deploy: 
 - Vercel, Netlify, Render
