@@ -1,8 +1,29 @@
 - 👋 Oi, eu sou @Amandalfs
 - 👀 Tenho interesse em javascript, Java, mySQL, HTML, CSS, PostgreSQL, SOLID, FACTORY,...
-- 🌱 Atualmente tenho conhecimentos nessas tecnlogias: javascript, java, designs patterns, SQL, HTML e CSS...
 - 📚 Estudante de desenvolvimento de software na Cubos Academy
 - Atualmente estou trabalhando em tres projetos pessoais = { BancoHzhong, SweetWorld, NewLabsWryzen} 
+
+- Tecnologias:
+HTML, CSS, React, TailWindCss, 
+Node, Express, Fastify, Nest,
+PostgreSQL, SQlite, MongoDb, MySql
+Typescript, Java, JavaScript,
+Git, GitHub
+Figma, Trello, Notion, Lucid
+VSCode, 
+Docker
+
+Testes: 
+Testes unitários, E2E, Testes ponta a ponta
+
+Deploy: 
+- Vercel, Netlify, Render
+
+Designs Patterns: 
+- Repository, Factory e Singleton
+
+Outros: 
+SOLID, Scrum e MVC
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
