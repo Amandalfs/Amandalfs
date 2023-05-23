@@ -20,7 +20,7 @@ Deploy:
 - Vercel, Netlify, Render
 
 Designs Patterns: 
-- Repository, Factory e Singleton
+- Repository, Factory, Singleton, sut
 
 Outros: 
 SOLID, Scrum e MVC
