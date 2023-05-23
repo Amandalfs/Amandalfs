@@ -30,7 +30,7 @@ Redes Sociais:
 [![Linkendin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-rodrigues%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%E2%9A%A7%EF%B8%8F-a92271166/)
 
 <div>
-<a href="https://github.com/lbguilherme">
+<a href="https://github.com/Amandalfs">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandalfs&layout=compact&langs_count=7&theme=synthwave"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandalfs&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 </div>
