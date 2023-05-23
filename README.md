@@ -1,7 +1,8 @@
-- 👋 Oi, eu sou @Amandalfs
-- 👀 Tenho interesse em javascript, Java, mySQL, HTML, CSS, PostgreSQL, SOLID, FACTORY,...
+### Sobre Mim
+- 👋 Ola, eu sou a @Amandalfs
+- 👀 Tenho interesse em javascript, SQL, SOLID, FACTORY, NodeJs...
 - 📚 Estudante de desenvolvimento de software na Cubos Academy
-- Atualmente estou trabalhando em tres projetos pessoais = { BancoHzhong, SweetWorld, NewLabsWryzen} 
+- Atualmente estou trabalhando em tres projetos pessoais sendo eles o BancoHzhong, SweetWorld, NewLabsWryzen. 
 
 ### Tecnologias:
 - HTML, CSS, React, TailWindCss, 
