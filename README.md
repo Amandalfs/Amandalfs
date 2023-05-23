@@ -3,7 +3,7 @@
 - 📚 Estudante de desenvolvimento de software na Cubos Academy
 - Atualmente estou trabalhando em tres projetos pessoais = { BancoHzhong, SweetWorld, NewLabsWryzen} 
 
-Tecnologias:
+### Tecnologias:
 - HTML, CSS, React, TailWindCss, 
 Node, Express, Fastify, Nest,
 PostgreSQL, SQlite, MongoDb, MySql
@@ -13,19 +13,19 @@ Figma, Trello, Notion, Lucid,
 VSCode, 
 Docker
 
-Testes: 
+### Testes: 
 - Testes unitários, E2E, Testes ponta a ponta
 
-Deploy: 
+### Deploy: 
 - Vercel, Netlify, Render
 
-Designs Patterns: 
+### Designs Patterns: 
 - Repository, Factory, Singleton, sut
 
-Outros: 
+### Outros: 
 SOLID, Scrum e MVC
 
-Redes Sociais:
+### Redes Sociais:
 
 [![Linkendin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-rodrigues%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%E2%9A%A7%EF%B8%8F-a92271166/)
 
