@@ -24,7 +24,7 @@ Docker
 - Repository, Factory, Singleton, sut
 
 ### Outros: 
-SOLID, Scrum e MVC
+SOLID, Scrum, MVC e Clean Artchi
 
 ### Redes Sociais:
 
