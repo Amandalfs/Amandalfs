@@ -15,7 +15,7 @@ VSCode,
 Docker
 
 ### Testes: 
-- Testes unitários, E2E, Testes ponta a ponta
+- Testes unitários, E2E.
 
 ### Deploy: 
 - Vercel, Netlify, Render
