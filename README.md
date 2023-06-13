@@ -1,10 +1,12 @@
-### Sobre Mim
-- 👋 Ola, eu sou a @Amandalfs
+### 👋 Sobre Mim  
+- Olá eu sou a Amanda, eu sou apaixonada em passar o tempo livre assistindo anime e jogar alguns jogos do tipo Minecraft ou Stardew escutando podcast, eu sou do tipo que não sabe desistir de alcançar os meus objetivos, meu dilema é sempre por em pratica sempre um pouco por dia para que no futuro eu tenha acumulado ainda mais conhecimento, também gosto de pensar que vou conseguir aprender sobre o estou estudando só não sei quanto tempo vai demorar.
+
+  comecei a estudar e praticar programação a quase um ano vendo aulas de logica, para depois ir para java e POO, em dezembro comecei a ver uma javascript, para depois de 1 mês entrar na cubos Academy que hoje já estou a 6 meses, eu tenho como objetivo me especializar ao máximo no Ambiente NodeJs e acredito que estou conseguindo chegar ao meu objetivo.
 - 👀 Tenho interesse em javascript, SQL, SOLID, FACTORY, NodeJs...
 - 📚 Estudante de desenvolvimento de software na Cubos Academy
 - Atualmente estou trabalhando em tres projetos pessoais sendo eles o BancoHzhong, SweetWorld, NewLabsWryzen. 
 
-### Tecnologias:
+### 💻 Tecnologias:
 - HTML, CSS, React, TailWindCss, 
 Node, Express, Fastify, Nest,
 PostgreSQL, SQlite, MongoDb, MySql
