@@ -52,6 +52,10 @@ SOLID, Scrum, MVC e Clean Artchi
 ![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor)
 ![git](https://img.shields.io/badge/git-purple?style=for-the-badge&logo=git&logoColor=white)
 
+<div align="center">
+  <img src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=Amandalfs&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tempo%20Codando&range=all_time" />
+</div>
+
 
 <!---
 Amandalfs/Amandalfs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
