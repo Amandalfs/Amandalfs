@@ -42,6 +42,10 @@ SOLID, Scrum, MVC e Clean Artchi
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandalfs&layout=compact&langs_count=7&theme=synthwave"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandalfs&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
+
+<div align="center">
+  <img src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=Amandalfs&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tempo%20Codando&range=all_time" />
+</div>
   
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -52,9 +56,6 @@ SOLID, Scrum, MVC e Clean Artchi
 ![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor)
 ![git](https://img.shields.io/badge/git-purple?style=for-the-badge&logo=git&logoColor=white)
 
-<div align="center">
-  <img src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=Amandalfs&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tempo%20Codando&range=all_time" />
-</div>
 
 
 <!---
