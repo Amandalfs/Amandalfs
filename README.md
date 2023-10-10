@@ -44,7 +44,7 @@ SOLID, Scrum, MVC e Clean Artchi
 </div>
 
 <div align="center">
-  <img src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=Amandalfs&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Contando desde setembro&range=all_time" />
+  <img src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=Amandalfs&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Contando_desde_setembro&range=all_time" />
 </div>
   
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
